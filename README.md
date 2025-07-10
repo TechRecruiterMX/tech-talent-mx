@@ -25,11 +25,12 @@ This is part of our effort to build transparent, open, and engineer-friendly rec
 
 ---
 
-### 2. **DevOps Engineer – AWS/Kubernetes**
-- 📍 Location: Remote (Mexico preferred)
-- 🔧 Stack: Terraform, GitHub Actions, EKS, CI/CD pipelines
-- ☁️ Experience with IaC and multi-cloud setups
-- ✍️ [View Full Job Description](./roles/devops-aws-k8s.md)
+### 2. **Tech Lead (Principal Software Engineer – React)**
+- 📍 Location: Mexico City (Hybrid)
+- 💻 Stack: React, TypeScript, AWS, CI/CD, Micro Frontends
+- 🧑‍💼 Leadership: Leads a frontend engineering team; responsible for architecture, mentoring, and delivery
+- 🌐 English required (client-facing, international environment)
+- ✍️ [View Full Job Description](./roles/tech-lead.md)
 
 ---
 
